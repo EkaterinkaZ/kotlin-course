@@ -16,7 +16,7 @@ val v10: Float = 18.0f
 val v11: Double = -0.001
 val v12: String = "OpenAI"
 
-//Не должно быть кавычек
+//Не должно быть кавычек с true
 //val v13: Boolean = "true"
 
 val v14: List<Int> = listOf(3, 14)
