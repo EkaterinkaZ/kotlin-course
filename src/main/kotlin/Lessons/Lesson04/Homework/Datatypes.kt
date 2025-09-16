@@ -6,7 +6,7 @@ val v3: Float = 23.45f
 val v4: Double = 0.123456789
 val v5: String = "Kotlin & Java"
 
-//False должно быть написано маленькими буквами
+//False должно  быть написано маленькими буквами
 //val v6: Boolean = FALSE
 
 val v7: Char = 'c'
