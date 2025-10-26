@@ -12,6 +12,7 @@ import static java.sql.DriverManager.println;
 
 
 abstract class Materials {
+    private final int[] items;
     private Object mutableListOf;
     private val materials = mutableListOf<String>()
     private Object index;
